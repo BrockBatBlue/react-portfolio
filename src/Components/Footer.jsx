@@ -4,7 +4,11 @@ import '../Styles/Footer.css';
 function Footer() {
   return (
     <>
-      <div>Footer</div>
+      <footer className="footer py-3">
+        <div className="container footerContain">
+          <span className="text-muted footerText">Made by BrockBatBlue with 💕</span>
+        </div>
+    </footer>
     </>
   );
 }
