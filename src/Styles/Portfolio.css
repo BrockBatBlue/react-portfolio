@@ -1,0 +1,10 @@
+.portTitle {
+    text-align: center;
+    margin-top: 1rem
+}
+
+.portfolioContainer {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
