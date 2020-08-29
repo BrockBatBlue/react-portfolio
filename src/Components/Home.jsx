@@ -1,5 +1,5 @@
-import React from 'react';
-import '../Styles/Home.css';
+import React from "react";
+import "../Styles/Home.css";
 
 function Home() {
   return (
@@ -36,9 +36,9 @@ function Home() {
               <a href="https://www.linkedin.com/in/emily-brockett/">Linkedin</a>
             </p>
             <p>
-              <a href="https://1drv.ms/b/s!ApJ-hYr8AWbRiN9vXWuQVGk8jVk2BQ"
-                >Resume</a
-              >
+              <a href="https://docs.google.com/document/d/1W2uFwRYLShoYjq3-P1IFF5mqm1UdMpzhKLOAiZPrlas/edit?usp=sharing">
+                Resume
+              </a>
             </p>
           </div>
         </div>
