@@ -46,7 +46,7 @@ function Home() {
             </p>
             <p>Where to find me</p>
             <p>
-              <a href="brockbatblue@gmail.com">Email Address</a>
+              <a href="mailto:brockbatblue@gmail.com">Email Address</a>
             </p>
             <p>
               <a href="https://github.com/BrockBatBlue">Github Profile Page</a>
