@@ -40,7 +40,7 @@ function Home() {
               <p>
                 What do I know? Javascript, Node, Express, Postman, Handlebars,
                 React, MongoDB, MySql, HTML, CSS, Bootstrap CSS, Foundation CSS,
-                JQuery, React-Toastify{" "}
+                JQuery, React-Toastify
               </p>
             </p>
             <p>Where to find me</p>
