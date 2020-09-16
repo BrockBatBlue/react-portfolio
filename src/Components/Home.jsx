@@ -27,6 +27,14 @@ function Home() {
               gardener, video game enthusiast, full-stack web development
               student, and traveler. Each has its own chapter both sequestered
               and fluid.
+              <p>
+                I am currently knee deep in web development. Even though I have
+                only recently finished my full-stack web development bootcamp, I
+                have already started a new and challenging project for a friend,
+                who is now my client. The drive to continue creating and push my
+                current limits is exciting, and I'm ready to join the vast world
+                of web developers.
+              </p>
             </p>
             <p>Where to find me</p>
             <p>
