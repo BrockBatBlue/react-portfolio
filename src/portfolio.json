@@ -1,74 +1,86 @@
 [
-    {   
-        "id": 1,
-        "image": "musicManKaraokeMode.jpg",
-        "title": "Music Man",
-        "description": "As my first group project, we all assigned ourselves to our strengths. I chose to manage, play with new css tools such as Flex Box, and fix bugs that came along the way.",
-        "point1": "First Bootcamp Project",
-        "point2": "Working Lyrics and Music Videos",
-        "point3": "Karaoke Mode",
-        "deployedUrl": "https://brockbatblue.github.io/Project_One/",
-        "deployedTitle": "Music Man",
-        "repoUrl":"https://github.com/BrockBatBlue/Project_One"
-    },
-    {   
-        "id": 2,
-        "image": "quizResultsPage.jpg",
-        "title": "Horticulture Quiz",
-        "description": "This was my first truly challenging homework assignment. I was afraid I would not get it done in time, and I spent many more hours than usual figuring out how to get it working. I persevered, stayed up late, and drank too much coffee, and created something I am absolutely proud to put on display",
-        "point1": "Plant Cutting Quiz",
-        "point2": "Time that stops at zero",
-        "point3": "Locally saved high scores",
-        "deployedUrl": "https://brockbatblue.github.io/Horticulture-Quiz/",
-        "deployedTitle": "Horticulture Quiz",
-        "repoUrl":"https://github.com/BrockBatBlue/Horticulture-Quiz"
-    },
-    {   
-        "id": 3,
-        "image": "weatherDashboard.jpg",
-        "title": "Weather Dashboard",
-        "description": "The Weather Dashboard assignment, though one of my exceptionally difficult homework assignments, was the first assignment where I really allowed myself to make the page my own. I used Flex Box for the first time to create stylish responsive page with its own unique flares.",
-        "point1": "Weather by city",
-        "point2": "Current Weather",
-        "point3": "Forecast",
-        "deployedUrl": "https://brockbatblue.github.io/Weather_Dashboard/",
-        "deployedTitle": "Weather Dashboard",
-        "repoUrl":"https://github.com/BrockBatBlue/Weather_Dashboard"
-    },
-    {   
-        "id": 4,
-        "image": "eat-da-burger.jpg",
-        "title": "Burger Eating App",
-        "description": "This application will allow the user to devour submitted burgers they so desire, devour that burger, and then spit it right back up to be devoured any time they'd like. It has limited entertainment value, but a quick kick 😝",
-        "point1": "Submit Burger",
-        "point2": "Devour Burger",
-        "point3": "Hosted on Heroku",
-        "deployedUrl": "https://burger-eat-burger-up.herokuapp.com/",
-        "deployedTitle": "HerokuApp Page",
-        "repoUrl":"https://github.com/BrockBatBlue/burger_eater_hw_wk_13"
-    },
-    {   
-        "id": 5,
-        "image": "handshakeHome.jpg",
-        "title": "Handshake",
-        "description": "This is an application focused on local businesses that might not have the ability to get their services noticed the way big companies can. This app allows small service businesses to add their information, get reviews, and connect with their community. This also gives clients the opportunity to find more affordable and local services right in their neighborhood.",
-        "point1": "A Service Provider App",
-        "point2": "It is localized by zipcode",
-        "point3": "Clients can give reviews",
-        "deployedUrl": "https://handshake-service-app.herokuapp.com/",
-        "deployedTitle": "HerokuApp Page",
-        "repoUrl":"https://github.com/BrockBatBlue/Project_2"
-    },
-    {   
-        "id": 6,
-        "image": "workdayScheduler.jpg",
-        "title": "Work Day Scheduler",
-        "description": "This app allows the user to keep track of their scheduling needs and gives the user indicators when time has passed for a certain deadline. Each task or appointment can be saved for the user.",
-        "point1": "Daily Todo and Scheduler",
-        "point2": "Locally stored information",
-        "point3": "Dynamic Color Indicators",
-        "deployedUrl": "https://brockbatblue.github.io/Work_Day_Scheduler/",
-        "deployedTitle": "Work Day Planner",
-        "repoUrl":"https://github.com/BrockBatBlue/Work_Day_Scheduler#work-day-scheduler"
-    }
+  {
+    "id": 1,
+    "image": "musicManKaraokeMode.jpg",
+    "title": "Music Man",
+    "description": "As my first group project, we all assigned ourselves to our strengths. I chose to manage, play with new css tools such as Flex Box, and fix bugs that came along the way.",
+    "point1": "First Bootcamp Project",
+    "point2": "Working Lyrics and Music Videos",
+    "point3": "Karaoke Mode",
+    "deployedUrl": "https://brockbatblue.github.io/Project_One/",
+    "deployedTitle": "Music Man",
+    "repoUrl": "https://github.com/BrockBatBlue/Project_One"
+  },
+  {
+    "id": 2,
+    "image": "quizResultsPage.jpg",
+    "title": "Horticulture Quiz",
+    "description": "This was my first truly challenging homework assignment. I was afraid I would not get it done in time, and I spent many more hours than usual figuring out how to get it working. I persevered, stayed up late, and drank too much coffee, and created something I am absolutely proud to put on display",
+    "point1": "Plant Cutting Quiz",
+    "point2": "Time that stops at zero",
+    "point3": "Locally saved high scores",
+    "deployedUrl": "https://brockbatblue.github.io/Horticulture-Quiz/",
+    "deployedTitle": "Horticulture Quiz",
+    "repoUrl": "https://github.com/BrockBatBlue/Horticulture-Quiz"
+  },
+  {
+    "id": 3,
+    "image": "weatherDashboard.jpg",
+    "title": "Weather Dashboard",
+    "description": "The Weather Dashboard assignment, though one of my exceptionally difficult homework assignments, was the first assignment where I really allowed myself to make the page my own. I used Flex Box for the first time to create stylish responsive page with its own unique flares.",
+    "point1": "Weather by city",
+    "point2": "Current Weather",
+    "point3": "Forecast",
+    "deployedUrl": "https://brockbatblue.github.io/Weather_Dashboard/",
+    "deployedTitle": "Weather Dashboard",
+    "repoUrl": "https://github.com/BrockBatBlue/Weather_Dashboard"
+  },
+  {
+    "id": 4,
+    "image": "eat-da-burger.jpg",
+    "title": "Burger Eating App",
+    "description": "This application will allow the user to devour submitted burgers they so desire, devour that burger, and then spit it right back up to be devoured any time they'd like. It has limited entertainment value, but a quick kick 😝",
+    "point1": "Submit Burger",
+    "point2": "Devour Burger",
+    "point3": "Hosted on Heroku",
+    "deployedUrl": "https://burger-eat-burger-up.herokuapp.com/",
+    "deployedTitle": "HerokuApp Page",
+    "repoUrl": "https://github.com/BrockBatBlue/burger_eater_hw_wk_13"
+  },
+  {
+    "id": 5,
+    "image": "handshakeHome.jpg",
+    "title": "Handshake",
+    "description": "This is an application focused on local businesses that might not have the ability to get their services noticed the way big companies can. This app allows small service businesses to add their information, get reviews, and connect with their community. This also gives clients the opportunity to find more affordable and local services right in their neighborhood.",
+    "point1": "A Service Provider App",
+    "point2": "It is localized by zipcode",
+    "point3": "Clients can give reviews",
+    "deployedUrl": "https://handshake-service-app.herokuapp.com/",
+    "deployedTitle": "HerokuApp Page",
+    "repoUrl": "https://github.com/BrockBatBlue/Project_2"
+  },
+  {
+    "id": 6,
+    "image": "workdayScheduler.jpg",
+    "title": "Work Day Scheduler",
+    "description": "This app allows the user to keep track of their scheduling needs and gives the user indicators when time has passed for a certain deadline. Each task or appointment can be saved for the user.",
+    "point1": "Daily Todo and Scheduler",
+    "point2": "Locally stored information",
+    "point3": "Dynamic Color Indicators",
+    "deployedUrl": "https://brockbatblue.github.io/Work_Day_Scheduler/",
+    "deployedTitle": "Work Day Planner",
+    "repoUrl": "https://github.com/BrockBatBlue/Work_Day_Scheduler#work-day-scheduler"
+  },
+  {
+    "id": 7,
+    "image": "GamerDashLogin.jpg",
+    "title": "Gamer Dash",
+    "description": "This app pulls from a library of video games that the community can upload themselves.",
+    "point1": "Secure login system",
+    "point2": "Profile page",
+    "point3": "Dynamic UX/UI experience",
+    "deployedUrl": "http://gamer-dash.herokuapp.com/",
+    "deployedTitle": "Gamer Dash",
+    "repoUrl": "https://github.com/hoffman1200/Project3"
+  }
 ]
