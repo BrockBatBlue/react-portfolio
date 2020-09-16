@@ -75,7 +75,7 @@
     "id": 7,
     "image": "GamerDashLogin.jpg",
     "title": "Gamer Dash",
-    "description": "This app pulls from a library of video games that the community can upload themselves.",
+    "description": "This app pulls from a library of video games and also the community can upload their own personal video games themselves.",
     "point1": "Secure login system",
     "point2": "Profile page",
     "point3": "Dynamic UX/UI experience",
