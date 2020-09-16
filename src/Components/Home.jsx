@@ -28,6 +28,7 @@ function Home() {
               student, and traveler. Each has its own chapter both sequestered
               and fluid.
               <br />
+              <hr />
               <p>
                 I am currently knee deep in web development. Even though I have
                 only recently finished my full-stack web development bootcamp, I
@@ -36,7 +37,7 @@ function Home() {
                 current limits is exciting, and I'm ready to join the vast world
                 of web developers.
               </p>
-              <br />
+              <hr />
               <p>
                 What do I know? Javascript, Node, Express, Postman, Handlebars,
                 React, MongoDB, MySql, HTML, CSS, Bootstrap CSS, Foundation CSS,
