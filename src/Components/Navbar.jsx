@@ -22,7 +22,7 @@ function Navbar() {
               Portfolio
             </Link>
           </li>
-          <li className="nav-item">
+          {/* <li className="nav-item">
             <Link
               to="/contact"
               className={
@@ -31,7 +31,7 @@ function Navbar() {
             >
               Contact
             </Link>
-          </li>
+          </li> */}
         </ul>
       </div>
     </nav>
