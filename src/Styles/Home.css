@@ -1,5 +1,4 @@
 .media {
-  margin-top: 20%;
   margin-right: 20%;
   display: flex;
   flex-direction: column;
@@ -10,9 +9,7 @@ hr {
   height: 4px;
   background: black;
 }
-.media-body {
-  margin-top: 5%;
-}
+
 .media-bottom {
   display: flex;
   justify-content: center;
