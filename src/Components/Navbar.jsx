@@ -8,7 +8,7 @@ function Navbar() {
   return (
     <nav className="navigationBar navbar navbar-expand navbar-light bg-light">
       <Link to="/" className="navbar-brand">
-        <img src="portfolioLogoOne_200x200.png" alt="" />
+        <img src="portfolioLogoTwo.png" alt="" />
       </Link>
       <div id="navbarNav">
         <ul className="navbar-nav">
@@ -19,7 +19,7 @@ function Navbar() {
                 location.pathname === "/about" ? "nav-link active" : "nav-link"
               }
             >
-              <img src="logoPortfolio_200x200.png" alt="" />
+              <img src="logoPortfolioTwo.png" alt="" />
             </Link>
           </li>
           {/* <li className="nav-item">

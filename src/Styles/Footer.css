@@ -2,6 +2,8 @@
   width: 100%;
   display: flex;
   background-color: transparent;
+  font-family: "Roboto", sans-serif;
+  font-weight: bolder;
 }
 .footerContain {
   display: flex;

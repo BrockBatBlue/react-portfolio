@@ -1,10 +1,13 @@
 .portTitle {
-    text-align: center;
-    margin-top: 1rem
+  text-align: center;
+  margin-top: 1rem;
+  margin-bottom: 1%;
+  font-size: 50px;
+  font-weight: 900;
 }
 
 .portfolioContainer {
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
 }
