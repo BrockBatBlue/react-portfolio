@@ -1,11 +1,15 @@
 .footer {
-    width:100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: rgba(90, 146, 90, 0.363);
+  width: 100%;
+  display: flex;
+  background-color: transparent;
 }
 .footerContain {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
+  font-size: larger;
+}
+
+#footerLogo {
+  height: 100px;
+  width: 100px;
 }
