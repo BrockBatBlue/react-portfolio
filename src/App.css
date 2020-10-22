@@ -1,7 +1,7 @@
 #root {
   min-height: 100vh;
   min-width: 100vw;
-  background-color: blanchedalmond;
+  background-color: rgba(186, 241, 225, 0.363);
   display: flex;
   flex-direction: column;
   align-items: center;

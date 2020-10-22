@@ -6,7 +6,7 @@ function Home() {
     <>
       <div className="container">
         <div className="row">
-          <div className="col-4">
+          <div className="col-5">
             <div className="media">
               <img
                 src="ProfilePicture.JPG"
@@ -65,7 +65,6 @@ function Home() {
                   Resume
                 </a>
               </div>
-
               <div className="media-bottom">
                 <img
                   src="soft_skills_badge.png"

@@ -1,4 +1,20 @@
 .navigationBar {
-    width:100%;
-    background-color: rgba(90, 146, 90, 0.363) !important;
+  width: 100%;
+  background-color: transparent !important;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.navbar-brand {
+  margin-left: 15%;
+  height: 250px;
+  width: 250px;
+  display: flex;
+  align-self: center;
+}
+#navbarNav {
+  height: 200px;
+  width: 150px;
+  display: flex;
+  align-self: center;
 }
