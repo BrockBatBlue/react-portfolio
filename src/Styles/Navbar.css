@@ -20,12 +20,12 @@
   align-items: center;
 }
 #homePage {
-  height: clamp(2rem, 6.5vh, 200px);
-  width: clamp(4rem, 7.5vw, 250px);
+  height: clamp(2rem, 7vh, 67px);
+  width: clamp(4rem, 9vw, 200px);
 }
 #portfolioPage {
-  height: clamp(2rem, 5vh, 200px);
-  width: clamp(5rem, 10vw, 250px);
+  height: clamp(2rem, 5vh, 48px);
+  width: clamp(5rem, 10vw, 200px);
 }
 /* height: 200px;
 width: 150px; */
