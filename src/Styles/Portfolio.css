@@ -2,7 +2,7 @@
   text-align: center;
   margin-top: 1rem;
   margin-bottom: 1%;
-  font-size: 50px;
+  font-size: clamp(0.5rem, 6vw, 4em);
   font-weight: 900;
 }
 

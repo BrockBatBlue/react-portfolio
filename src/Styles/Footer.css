@@ -8,7 +8,7 @@
 .footerContain {
   display: flex;
   justify-content: center;
-  font-size: larger;
+  font-size: clamp(2px, 1vw, 20px);
 }
 
 #footerLogo {

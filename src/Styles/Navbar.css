@@ -5,9 +5,17 @@
   justify-content: space-evenly;
   align-items: center;
 }
-#navbarNav {
-  height: 200px;
-  width: 150px;
+.navbar-brand {
+  height: clamp(1rem, 5vw, 200px);
+  width: clamp(1rem, 5vw, 150px);
   display: flex;
   align-items: center;
 }
+#navbarNav {
+  height: clamp(0.5rem, 2vw, 200px);
+  width: clamp(0.5rem, 2vw, 150px);
+  display: flex;
+  align-items: center;
+}
+/* height: 200px;
+width: 150px; */

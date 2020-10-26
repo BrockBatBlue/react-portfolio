@@ -1,5 +1,5 @@
 .media {
-  margin-right: 20%;
+  margin-right: clamp(1rem, 5vw, 5rem);
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -13,6 +13,7 @@ hr {
 .media-bottom {
   display: flex;
   justify-content: center;
+  margin: clamp(0.5em, 5vw, 5em);
 }
 .boldList {
   font-weight: bolder;
@@ -21,13 +22,21 @@ hr {
 .contactInfo {
   display: flex;
   justify-content: space-evenly;
+  font-size: clamp(1rem, 2vw, 2 rem);
 }
 p {
   font-family: "Roboto", sans-serif;
+  font-size: clamp(0.25rem, 1vw, 1rem);
 }
 h5 {
   font-family: "Merienda", cursive;
+  font-size: clamp(5px, 2vw, 20px);
 }
 h6 {
   font-family: "Merienda", cursive;
+  font-size: clamp(5px, 2vw, 15px);
+}
+#badge {
+  height: clamp(10rem, 15vw, 400px);
+  width: clamp(10rem, 15vw, 400px);
 }

@@ -1,7 +1,14 @@
 .card {
-    max-width: 30%;
-    margin: 10px
+  max-width: 30%;
+  margin: clamp(0.15rem, 0.25vw, 0.5em);
 }
 .mainBody {
-    background-color: rgb(208, 221, 214);
+  background-color: rgb(208, 221, 214);
+}
+.list-group-item {
+  font-size: clamp(0.25rem, 1vw, 1rem);
+}
+
+.card-link {
+  font-size: clamp(0.25rem, 1vw, 1rem);
 }
