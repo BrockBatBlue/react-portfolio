@@ -9,12 +9,14 @@ function Home() {
           <div className="col-5">
             <div className="media">
               <img
+                id="profilePic"
                 src="ProfilePicture.JPG"
                 className="mr-3 img-fluid"
                 alt="..."
               />
               <br />
               <img
+                id="bootCampCert"
                 src="bootcampCert.jpg"
                 className="mr-3 img-fluid"
                 alt="..."

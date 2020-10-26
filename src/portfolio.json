@@ -44,7 +44,7 @@
     "point2": "Express, Express-handlebars, MySql ",
     "point3": "Javascript, CSS",
     "deployedUrl": "https://burger-eat-burger-up.herokuapp.com/",
-    "deployedTitle": "HerokuApp Page",
+    "deployedTitle": "Burger Eat App",
     "repoUrl": "https://github.com/BrockBatBlue/burger_eater_hw_wk_13"
   },
   {
@@ -56,7 +56,7 @@
     "point2": "Express, Express-handlebars, MySql",
     "point3": "Javascript, JQuery, Google fonts, Bootstrap CSS",
     "deployedUrl": "https://handshake-service-app.herokuapp.com/",
-    "deployedTitle": "HerokuApp Page",
+    "deployedTitle": "Handshake",
     "repoUrl": "https://github.com/BrockBatBlue/Project_2"
   },
   {
