@@ -37,6 +37,6 @@ h6 {
   font-size: clamp(5px, 2vw, 15px);
 }
 #badge {
-  height: clamp(10rem, 15vw, 400px);
-  width: clamp(10rem, 15vw, 400px);
+  height: clamp(5rem, 15vw, 400px);
+  width: clamp(5rem, 15vw, 400px);
 }
