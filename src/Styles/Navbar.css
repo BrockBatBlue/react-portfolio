@@ -1,21 +1,26 @@
 .navigationBar {
   width: 100%;
+  height: clamp(5rem, 10vh, 350px);
   background-color: transparent !important;
   display: flex;
   justify-content: space-evenly;
   align-items: center;
 }
 .navbar-brand {
-  height: clamp(1rem, 5vw, 200px);
-  width: clamp(1rem, 5vw, 150px);
   display: flex;
   align-items: center;
 }
 #navbarNav {
-  height: clamp(0.5rem, 2vw, 200px);
-  width: clamp(0.5rem, 2vw, 150px);
   display: flex;
   align-items: center;
+}
+#homePage {
+  height: clamp(5rem, 7vh, 200px);
+  width: clamp(5rem, 7vw, 150px);
+}
+#portfolioPage {
+  height: clamp(5rem, 2vh, 150px);
+  width: clamp(5rem, 8vw, 200px);
 }
 /* height: 200px;
 width: 150px; */
