@@ -10,5 +10,5 @@
 }
 
 .card-link {
-  font-size: clamp(5px, 1vw, 1rem);
+  font-size: clamp(5px, 1vw, 15px);
 }

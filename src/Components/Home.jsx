@@ -27,7 +27,7 @@ function Home() {
             <div className="col-12">
               <h5 className="mt-0">A Sneak Peek</h5>
               <p>
-                It is hard to describe ones self when ones complexities are too
+                It is hard to describe ones self when one's complexities are too
                 common and too close to understand in full. I am in many ways a
                 hobbyist: anxious and restless by nature. I have lived many
                 lives as a horse trainer, writer, nursing assistant, college

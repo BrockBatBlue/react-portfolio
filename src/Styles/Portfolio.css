@@ -10,5 +10,5 @@
   display: flex;
   flex-direction: row !important;
   flex-wrap: wrap;
-  justify-content: space-evenly;
+  justify-content: space-around;
 }
