@@ -11,14 +11,14 @@ function Home() {
               <img
                 id="profilePic"
                 src="ProfilePicture.JPG"
-                className="mr-3 img-fluid"
+                className="img-fluid"
                 alt="..."
               />
               <br />
               <img
                 id="bootCampCert"
                 src="bootcampCert.jpg"
-                className="mr-3 img-fluid"
+                className="img-fluid"
                 alt="..."
               />
             </div>

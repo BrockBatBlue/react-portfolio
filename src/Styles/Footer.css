@@ -1,13 +1,13 @@
 .footer {
-  width: 100%;
   display: flex;
+  justify-content: flex-end;
   background-color: transparent;
   font-family: "Roboto", sans-serif;
   font-weight: bolder;
 }
 .footerContain {
   display: flex;
-  justify-content: center;
+  align-items: center;
   font-size: clamp(5px, 1.5vw, 20px);
 }
 

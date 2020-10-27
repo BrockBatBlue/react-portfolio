@@ -7,18 +7,19 @@ function Navbar() {
 
   return (
     <nav className="navigationBar navbar navbar-expand navbar-light bg-light">
-      <Link to="/" className="navbar-brand">
-        <img id="homePage" src="portfolioLogoTwo.png" alt="" />
-      </Link>
       <div id="navbarNav">
         <ul className="navbar-nav">
           <li className="nav-item">
-            <Link
-              to="/portfolio"
-              className={
-                location.pathname === "/about" ? "nav-link active" : "nav-link"
-              }
-            >
+            <Link to="/" className="nav-link">
+              <img id="homePage" src="portfolioLogoTwo.png" alt="" />
+            </Link>
+          </li>
+        </ul>
+      </div>
+      <div id="navbarNav">
+        <ul className="navbar-nav">
+          <li className="nav-item">
+            <Link to="/portfolio" className="nav-link">
               <img id="portfolioPage" src="logoPortfolioTwo.png" alt="" />
             </Link>
           </li>

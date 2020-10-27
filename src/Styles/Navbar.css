@@ -1,5 +1,4 @@
 .navigationBar {
-  width: 85vw;
   height: clamp(1rem, 8vh, 400px);
   margin: clamp(0.25rem, 3vh, 50px);
   background-color: transparent !important;
@@ -15,18 +14,12 @@
   align-items: center;
 }
 #navbarNav {
-  height: clamp(0.5rem, 2vw, 200px);
-  width: clamp(0.5rem, 2vw, 150px);
   display: flex;
   align-items: center;
 }
 #homePage {
-  height: clamp(2rem, 7vh, 67px);
-  width: clamp(4rem, 11vw, 197px);
+  width: clamp(100px, 35vw, 197px);
 }
 #portfolioPage {
-  height: clamp(2rem, 5vh, 48px);
-  width: clamp(5rem, 10vw, 200px);
+  width: clamp(100px, 35vw, 200px);
 }
-/* height: 200px;
-width: 150px; */
