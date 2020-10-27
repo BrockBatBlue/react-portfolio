@@ -8,6 +8,7 @@
 
 .portfolioContainer {
   display: flex;
-  justify-content: space-between;
+  flex-direction: row !important;
   flex-wrap: wrap;
+  justify-content: space-evenly;
 }
