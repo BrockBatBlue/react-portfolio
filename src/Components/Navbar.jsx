@@ -10,7 +10,7 @@ function Navbar() {
       <div id="navbarNav">
         <ul className="navbar-nav">
           <li className="nav-item">
-            <Link to="/" className="nav-link">
+            <Link to="/aboutme" className="nav-link">
               <img id="homePage" src="portfolioLogoTwo.png" alt="" />
             </Link>
           </li>

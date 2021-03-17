@@ -1,55 +1,32 @@
-.container {
+.background-image {
+  height: 100vh;
+}
+.mainContainer{
   display: flex;
   flex-direction: column;
-}
-.media {
-  /* margin-right: clamp(0.25rem, 15vw, 15%); */
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  align-items: center;
-}
-#profilePic {
-  /* height: clamp(6rem, 17.5vw, 500px); */
-  width: clamp(10rem, 23vw, 550px);
-}
-#bootCampCert {
-  /* height: clamp(11rem, 29vw, 500px); */
-  width: clamp(11rem, 23vw, 550px);
-}
-hr {
-  height: 4px;
-  background: rgb(21, 223, 21);
-}
-
-.media-bottom {
-  display: flex;
   justify-content: center;
-  margin: clamp(0.5em, 5vw, 5em);
 }
-.boldList {
-  font-weight: bolder;
-  font-family: "Roboto", sans-serif;
-  font-size: clamp(0.25rem, 1vw, 15px);
+.imageScene{
+  z-index: 0;
+  height: clamp(30.96vh, 65.79vh, 73.53vh ) !important;
+  width: clamp(20.83vw, 44.27vw, 49.48vw )  !important;
+  margin-left: 2vw; 
+  margin-top: 10vh;
+
 }
-.contactInfo {
-  display: flex;
-  justify-content: space-evenly;
-  font-size: clamp(5px, 2vw, 17px);
+.landingPageText{
+  padding-left: 2vw;
+  margin-top: 25vh;
 }
-p {
-  font-family: "Roboto", sans-serif;
-  font-size: clamp(5px, 1vw, 15px);
+.welcome{
+  font-family: 'Roboto', sans-serif;
+  font-size: clamp(0.5rem, 3.5vw, 4em);
 }
-h5 {
-  font-family: "Merienda", cursive;
-  font-size: clamp(5px, 2.5vw, 20px);
+.moveBtn{
+  margin-top: 23vh;
+  font-family: 'Roboto', sans-serif;
 }
-h6 {
-  font-family: "Merienda", cursive;
-  font-size: clamp(5px, 2vw, 17px);
-}
-#badge {
-  height: clamp(5rem, 17.5vw, 400px);
-  width: clamp(5rem, 17.5vw, 400px);
+#learnMore {
+  background-color:rgb(163, 91, 50);
+  margin-left: 5vw;
 }
