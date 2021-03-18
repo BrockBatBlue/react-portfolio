@@ -1,5 +1,6 @@
 .background-image {
   height: 100vh;
+  background-color: #4a4a48 !important;
 }
 .mainContainer{
   display: flex;

@@ -6,21 +6,21 @@ function Navbar() {
   const location = useLocation();
 
   return (
-    <nav className="navigationBar navbar navbar-expand navbar-light bg-light">
-      <div id="navbarNav">
+    <nav className="navigationBar navbar navbar-expand navbar-light">
+      <div className="navbarNav">
         <ul className="navbar-nav">
           <li className="nav-item">
             <Link to="/aboutme" className="nav-link">
-              <img id="homePage" src="portfolioLogoTwo.png" alt="" />
+              <img id="homePage" src="betterELogo.png" alt="" />
             </Link>
           </li>
         </ul>
       </div>
-      <div id="navbarNav">
+      <div className="navbarNav">
         <ul className="navbar-nav">
           <li className="nav-item">
             <Link to="/portfolio" className="nav-link">
-              <img id="portfolioPage" src="logoPortfolioTwo.png" alt="" />
+              <img id="portfolioPage" src="lastPortfolio.png" alt="" />
             </Link>
           </li>
           {/* <li className="nav-item">
@@ -33,6 +33,11 @@ function Navbar() {
               Contact
             </Link>
           </li> */}
+          <li className="nextNavLi nav-item">
+            <Link to="/" className="nav-link">
+              <img id="landing" src="brownHouse.png" alt="" />
+            </Link>
+          </li>
         </ul>
       </div>
     </nav>

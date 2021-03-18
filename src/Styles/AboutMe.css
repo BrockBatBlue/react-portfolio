@@ -1,6 +1,9 @@
-.container {
+
+.container-fluid {
+    margin-top: 5vh;
     display: flex;
     flex-direction: column;
+
   }
   .media {
     /* margin-right: clamp(0.25rem, 15vw, 15%); */
@@ -9,17 +12,21 @@
     justify-content: space-between;
     align-items: center;
   }
+  .media-body{
+    margin-right: 5vw;
+  }
   #profilePic {
     /* height: clamp(6rem, 17.5vw, 500px); */
-    width: clamp(10rem, 23vw, 550px);
+    width: clamp(10rem, 22vw, 540px);
   }
   #bootCampCert {
     /* height: clamp(11rem, 29vw, 500px); */
-    width: clamp(11rem, 23vw, 550px);
+    width: clamp(11rem, 22vw, 540px);
+    margin-bottom: 1vh;
   }
   hr {
     height: 4px;
-    background: rgb(21, 223, 21);
+    background: #a4c2a5;
   }
   
   .media-bottom {

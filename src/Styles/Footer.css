@@ -1,17 +1,16 @@
 .footer {
   display: flex;
-  justify-content: flex-end;
-  background-color: transparent;
+  background-color: #4a4a48 !important;
   font-family: "Roboto", sans-serif;
   font-weight: bolder;
 }
-.footerContain {
-  display: flex;
-  align-items: center;
-  font-size: clamp(5px, 1.5vw, 20px);
+
+.orangeHeader{
+  color: #B36115;
 }
 
-#footerLogo {
-  height: 100px;
-  width: 100px;
+.footerInfo{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
 }

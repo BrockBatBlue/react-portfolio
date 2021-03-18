@@ -3,7 +3,7 @@
   margin: 10px;
 }
 .mainBody {
-  background-color: rgb(208, 221, 214);
+  background-color: #f1f2eb;
 }
 .list-group-item {
   font-size: clamp(5px, 1vw, 1rem);

@@ -1,7 +1,7 @@
 .navigationBar {
-  height: clamp(1rem, 8vh, 400px);
-  margin: clamp(0.25rem, 3vh, 50px);
-  background-color: transparent !important;
+  height: clamp(1rem, 15vh, 400px);
+  margin: 0;
+  background-color: #4a4a48 !important;
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -13,7 +13,7 @@
   justify-content: flex-start;
   align-items: center;
 }
-#navbarNav {
+.navbarNav {
   display: flex;
   align-items: center;
 }
@@ -22,4 +22,7 @@
 }
 #portfolioPage {
   width: clamp(100px, 35vw, 200px);
+}
+.nextNavLi{
+  justify-self: flex-end;
 }

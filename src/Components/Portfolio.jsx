@@ -8,7 +8,7 @@ function Portfolio() {
     <>
       <div>
         <h5 className="portTitle">Portfolio</h5>
-        <div className="container portfolioContainer">
+        <div className="container-fluid portfolioContainer">
           {cards.map((card) => {
             return (
               <Card
