@@ -24,7 +24,7 @@ function AboutMe() {
         </div>
         <div className="media-body">
           <div className="col-12">
-            <h5 className="mt-0">A Sneak Peek</h5>
+            <h5 className="mt-0">What About Me?</h5>
             <p>
               It is hard to describe ones self when one's complexities are too
               common and too close to understand in full. I am in many ways a
