@@ -9,7 +9,7 @@
 }
 .imageScene{
   z-index: 0;
-  height: clamp(30.96vh, 65.79vh, 73.53vh );
+  /* height: clamp(30.96vh, 65.79vh, 73.53vh ); */
   width: clamp(20.83vw, 44.27vw, 49.48vw );
   margin-left: 2vw; 
   margin-top: 10vh;
@@ -17,14 +17,14 @@
 }
 .landingPageText{
   padding-left: 2vw;
-  margin-top: 20vh;
+  margin-top: clamp(8vh, 17vh, 20vh);
 }
 .welcome{
   font-family: 'Roboto', sans-serif;
   font-size: clamp(0.5rem, 3.5vw, 4em);
 }
 .moveBtn{
-  margin-top: 20vh;
+  margin-top: clamp(4vh, 12vh, 20vh);
   font-family: 'Roboto', sans-serif;
 }
 #learnMore {

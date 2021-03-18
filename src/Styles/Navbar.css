@@ -23,6 +23,9 @@
 #portfolioPage {
   width: clamp(100px, 35vw, 200px);
 }
+#landing {
+  width: clamp(100px, 35vw, 200px);
+}
 .nextNavLi{
   justify-self: flex-end;
 }
