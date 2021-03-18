@@ -9,8 +9,8 @@
 }
 .imageScene{
   z-index: 0;
-  height: clamp(30.96vh, 65.79vh, 73.53vh ) !important;
-  width: clamp(20.83vw, 44.27vw, 49.48vw )  !important;
+  height: clamp(30.96vh, 65.79vh, 73.53vh );
+  width: clamp(20.83vw, 44.27vw, 49.48vw );
   margin-left: 2vw; 
   margin-top: 10vh;
 

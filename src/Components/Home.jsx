@@ -37,7 +37,7 @@ function Home() {
                   </h1> */}
                   <a
                     id="learnMore"
-                    href={Link}
+                    href={"/aboutme"}
                     className="btn btn-outline-light btn-danger mt-5"
                   >
                     Find out more!
