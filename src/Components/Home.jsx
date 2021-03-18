@@ -8,7 +8,7 @@ function Home() {
       <div className="backgroundImage">
         <img
           className="imageScene"
-          src="RiverPic.jpg"
+          src="RiverPic.JPG"
           alt="river background image"
         />
       </div>
