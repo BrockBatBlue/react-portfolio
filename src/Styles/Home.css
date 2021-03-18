@@ -17,17 +17,17 @@
 }
 .landingPageText{
   padding-left: 2vw;
-  margin-top: 25vh;
+  margin-top: 20vh;
 }
 .welcome{
   font-family: 'Roboto', sans-serif;
   font-size: clamp(0.5rem, 3.5vw, 4em);
 }
 .moveBtn{
-  margin-top: 23vh;
+  margin-top: 20vh;
   font-family: 'Roboto', sans-serif;
 }
 #learnMore {
-  background-color:rgb(163, 91, 50);
+  background-color:#B36115;
   margin-left: 5vw;
 }
