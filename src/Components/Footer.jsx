@@ -16,6 +16,8 @@ function Footer() {
                 Morris, Illinois
                 <br />
                 Resident
+                <br />
+                Citizen
               </p>
               {/* <p>+44 800 400 0000</p>
               <p>
